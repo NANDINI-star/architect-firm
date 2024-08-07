@@ -6,7 +6,7 @@ import {
   useScroll,
   useMotionValueEvent,
 } from "framer-motion";
-import { cn } from "../../lib/util";
+import { cn } from "../../../lib/util";
 import Link from "next/link";
 
 export const FloatingNav = ({
