@@ -1,6 +1,6 @@
-import { FloatingNav } from "@/components/ui/FloatingNavbar";
-import { InfiniteMovingCards } from "@/components/ui/InfiniteMovingCards";
-import { WavyBackground } from "@/components/ui/WavyBackground";
+import { FloatingNav } from "../app/components/ui/FloatingNavbar";
+import { InfiniteMovingCards } from "../app/components/ui/InfiniteMovingCards";
+import { WavyBackground } from "../app/components/ui/WavyBackground";
 import Image from "next/image";
 
 export default function Home() {

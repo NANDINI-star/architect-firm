@@ -1,7 +1,7 @@
 "use client";
 import React, { useEffect, useRef, useState } from "react";
 import { createNoise3D } from "simplex-noise";
-import { cn } from "../../lib/util";
+import { cn } from "../../../lib/util";
 
 export const WavyBackground = ({
   children,
